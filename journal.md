@@ -34,3 +34,5 @@ Running log of owner ↔ agent work for session continuity. Newest entries at th
 3. Email register/login → session/refresh → one RBAC-protected sample route (first end-to-end slice)
 
 **Open / do not claim yet:** Live demo, Loom, measured numbers, resume bullets with metrics.
+
+**Follow-up same day:** Initial commit pushed; public repo created at https://github.com/RDX-Rajat-Savdekar/Keynest (`main` @ `167316d`).
